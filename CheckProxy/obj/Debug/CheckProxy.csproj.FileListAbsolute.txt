@@ -11,3 +11,9 @@ D:\xronich\checker\CheckProxy\obj\Debug\CheckProxy.pdb
 D:\xronich\checker\CheckProxy\bin\Debug\CheckProxy.exe
 D:\xronich\checker\CheckProxy\bin\Debug\CheckProxy.pdb
 D:\xronich\checker\CheckProxy\obj\Debug\CheckProxy.csprojResolveAssemblyReference.cache
+G:\checker\grabber\CheckProxy\bin\Debug\CheckProxy.exe.config
+G:\checker\grabber\CheckProxy\obj\Debug\CheckProxy.exe
+G:\checker\grabber\CheckProxy\obj\Debug\CheckProxy.pdb
+G:\checker\grabber\CheckProxy\bin\Debug\CheckProxy.exe
+G:\checker\grabber\CheckProxy\bin\Debug\CheckProxy.pdb
+G:\checker\grabber\CheckProxy\obj\Debug\CheckProxy.csprojResolveAssemblyReference.cache
