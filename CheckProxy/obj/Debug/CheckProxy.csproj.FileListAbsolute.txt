@@ -1,0 +1,13 @@
+D:\proxy\CheckProxy\CheckProxy\CheckProxy\bin\Debug\CheckProxy.exe.config
+D:\proxy\CheckProxy\CheckProxy\CheckProxy\bin\Debug\CheckProxy.exe
+D:\proxy\CheckProxy\CheckProxy\CheckProxy\bin\Debug\CheckProxy.pdb
+D:\proxy\CheckProxy\CheckProxy\CheckProxy\bin\Debug\xNet.dll
+D:\proxy\CheckProxy\CheckProxy\CheckProxy\obj\Debug\CheckProxy.exe
+D:\proxy\CheckProxy\CheckProxy\CheckProxy\obj\Debug\CheckProxy.pdb
+D:\proxy\CheckProxy\CheckProxy\CheckProxy\obj\Debug\CheckProxy.csprojResolveAssemblyReference.cache
+D:\xronich\checker\CheckProxy\bin\Debug\CheckProxy.exe.config
+D:\xronich\checker\CheckProxy\obj\Debug\CheckProxy.exe
+D:\xronich\checker\CheckProxy\obj\Debug\CheckProxy.pdb
+D:\xronich\checker\CheckProxy\bin\Debug\CheckProxy.exe
+D:\xronich\checker\CheckProxy\bin\Debug\CheckProxy.pdb
+D:\xronich\checker\CheckProxy\obj\Debug\CheckProxy.csprojResolveAssemblyReference.cache
